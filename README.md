@@ -4,14 +4,10 @@
 
 This Tableau dashboard provides comprehensive insights into the performance of a Super-Store, offering a deep dive into various key metrics and customer segments.
 
-## Quick Glance
-
-![Quick Glance - Dashboard](https://github.com/shinilkumars/Strategic-Business-Intelligence-Dashboard/assets/173347067/c1021e3b-56f4-49a2-a82b-6fa3a936d7b8)
-
+![Quick Glance - Dashboard](https://github.com/shinilkumars/Strategic-Business-Intelligence-Dashboard/assets/173347067/a91929ae-6b70-41cb-ba68-a991067de533)
 
 ## Data Source
-
-This dashboard utilizes the Superstore dataset,[click here to download](                    )
+This dashboard utilizes the Superstore dataset,[Click here to download](https://github.com/shinilkumars/Strategic-Business-Intelligence-Dashboard/raw/main/Superstore%20-%20Data%20Set.xls)
 
 ## Features
 
@@ -43,6 +39,6 @@ This dashboard is designed to support:
 
 - Integration with real-time data sources
 - Addition of predictive analytics features
-- Expansion of geographical analysis
+
 
 
