@@ -2,9 +2,13 @@
 
 ## Project Overview
 
-This Tableau dashboard provides comprehensive insights into the performance of a Super-Store, offering a deep dive into various key metrics and customer segments.
-
+This Tableau dashboard offers a comprehensive and dynamic analysis of Super Store's performance, providing deep insights into various aspects of the business. It's designed to empower decision-makers with actionable intelligence derived from data set.
+### Quick Glance
 ![Quick Glance - Dashboard](https://github.com/shinilkumars/Strategic-Business-Intelligence-Dashboard/assets/173347067/a91929ae-6b70-41cb-ba68-a991067de533)
+
+## Technologies Used
+- **Tableau**: Primary tool for data visualization and dashboard creation
+- **Excel**: Used for initial data preparation and cleaning
 
 ## Data Source
 This dashboard utilizes the Superstore dataset,[Click here to download](https://github.com/shinilkumars/Strategic-Business-Intelligence-Dashboard/raw/main/Superstore%20-%20Data%20Set.xls)
